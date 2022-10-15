@@ -1,0 +1,11 @@
+.clear{
+    display: flex;
+    flex: 1;
+    height: 3rem;
+    background-color: rgb(52, 52, 52);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+}
